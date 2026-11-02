@@ -1,0 +1,1 @@
+Hibernate creates the app_users, resumes, and job_applications tables automatically on first startup (spring.jpa.hibernate.ddl-auto=update).
